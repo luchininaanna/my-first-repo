@@ -1,0 +1,4 @@
+PROGRAM New(INPUT, OUNPUT);
+BEGIN
+  WRITELN('new_feature')
+END.
